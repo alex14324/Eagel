@@ -8,7 +8,7 @@ Project Eagle is a plugin based vulnerabilities scanner with threading support u
                           //// / // :    : ---                    v1.0b
                           / /   /  /`    '--                    2019-2020
                                     //..\\           
-                               ====UU====UU====       
+                               ====UU====UU====                   @alex14324
                                    '//||\\`           
                                      ''``
                                 Project Eagle
