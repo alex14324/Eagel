@@ -16,8 +16,8 @@ Project Eagle is a plugin based vulnerabilities scanner with threading support u
 ```
 
 <p align="center">
-    Developed and maintained: <a href="https://twitter.com/BitTheByte">@BitTheByte</a>
-    Idea: <a href="https://twitter.com/K4r1it0">@K4r1it0</a>
+    Developed and maintained: <a href="https://t.me/alex14324">@alex14324</a>
+    Idea: <a href="https://github.com/alex14324">@alex14324</a>
 </p>
 
 # Requirements
